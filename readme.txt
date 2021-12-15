@@ -1,12 +1,7 @@
 Submission folder structure:
 CZ4041_MLProject_Group20
--> CZ4041_MLProject_Group20_Report.pdf			    # Report of project
--> CZ4041_MLProject_Group20_Source_Code.ipynb		# Source code of project 
--> submission_best.csv 					            # final .csv submitted to Kaggle 
--> readme.txt					                	# readme file
--> data						                    	# folder to store all used datasets
 
-How to run CZ4041_MLProject_Group20_Source_Code.ipynb (Using google collab):
+How to run ML_Project.ipynb (Using google collab):
 1) Upload the submission folder onto Google Drive
 2) Download train.csv and test.csv from the competition URL and place it in the data folder
 3) Download US Holiday from the URL provided and place it in the data folder
